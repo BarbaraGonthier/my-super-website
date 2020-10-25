@@ -1,2 +1,2 @@
 # my-super-website
-Quête Git/Github3: Remote
+Wild Code School solution: This repo is a solution to a specific challenge given to students during their training to become web developers.
